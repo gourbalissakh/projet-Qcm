@@ -1,8 +1,8 @@
 <?php
-$servername = "localhost";
-$dbname = "plateforme_qcm";
-$username = "root";
-$password = "";
+$servername = "sql202.infinityfree.com";
+$dbname = "if0_39249443_qcm_plateforme";
+$username = "if0_39249443";
+$password = "Abbahanay6418";
 
 try {
     // Connexion sans base
